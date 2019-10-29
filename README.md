@@ -1,6 +1,6 @@
 # Mechanical-Arm-Motion-Plannig
 
-This blog retport records my processing of motion planning for my 6 DOF mechanical arm.
+This blog records my implementation of motion planning for my 6 DOF mechanical arm.
 
 
 Please note that the report of Inverse Kinematics Implementation is still not finished and I will upload it once I finish it. 
